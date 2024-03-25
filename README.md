@@ -11,11 +11,3 @@
   <br>🐘 I'm also on Mastodon https://toot.wales/@seanedwards
   <br>🎲 Fun fact: The raised bits on the top of castle walls are called 'merlons'
 </p>
-
-###
-
-<div>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mrnutmeg118&count=3&unique=true"&width=600 alt="Spotify recently played"  />
-</div>
-
-###
