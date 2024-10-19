@@ -1,4 +1,4 @@
-<h1 align="left">Shwmae/Hello 👋</h1>
+<h1 align="left">Su'mae/Hello 👋</h1>
 
 ###
 
